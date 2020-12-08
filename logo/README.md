@@ -1,4 +1,4 @@
-# geopubby Logo
+# archaeology.link Logo
 
 ## Logo
 
