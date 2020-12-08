@@ -2,7 +2,7 @@
 
 ## Logo
 
-<img src="https://github.com/RGZM/archaeologylink_CD/blob/main/logo/archaeologylink_logo.png" alt="archaeologylink-logo" title="archaeologylink-logo" height="300" />
+<img src="https://github.com/RGZM/archaeologylink_CD/blob/main/logo/archaeologylink_logo.png" alt="archaeologylink-logo" title="archaeologylink-logo" height="500" />
 
 ## License
 
