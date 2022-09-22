@@ -7,3 +7,8 @@ background-color: #252331ff
 # lado
 
 https://www.colorhexa.com/7883ae
+
+# alligator
+
+https://www.colorhexa.com/98aec1
+
