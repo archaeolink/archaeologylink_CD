@@ -1,8 +1,8 @@
-# archaeology.link Logo
+# LDO Logo
 
 ## Logo
 
-<img src="https://github.com/RGZM/archaeologylink_CD/blob/main/logo/archaeologylink_logo.png" alt="archaeologylink-logo" title="archaeologylink-logo" height="500" />
+<img src="https://github.com/archaeolink/archaeologylink_CD/raw/main/logo_lado/lado_logo.png" alt="archaeologylink-logo" title="archaeologylink-logo" height="500" />
 
 ## License
 
