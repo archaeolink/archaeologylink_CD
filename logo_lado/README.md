@@ -1,4 +1,4 @@
-# LDO Logo
+# LADO Logo
 
 ## Logo
 
